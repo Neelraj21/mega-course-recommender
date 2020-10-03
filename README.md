@@ -1,7 +1,7 @@
 # The mega course recommender
 This has been an idea (since a long time) to create a curated list of courses (for various topics) so that beginners can get benefitted from that list! And I feel this is a very great time to start the project as there are many students looking for a project to contribute to in this **Hacktoberfest**
 
-## How can you contribute?
+## How can you contribute?(You can watch my video on youtuber {Arpan Codes})
 1. Fork this repo
 2. clone your version of the repo
 3. create a new-branch and switch to it.
